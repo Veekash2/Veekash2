@@ -185,10 +185,6 @@ Off the keyboard you'll find me on the mat (MMA) or watching the tape (Forex day
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veekash2&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="top languages" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Veekash2&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="trophies" />
-</p>
-
 ---
 
 <p align="center">
