@@ -21,13 +21,13 @@
   <img src="https://komarev.com/ghpvc/?username=Veekash2&label=Profile%20views&color=2E75B6&style=flat-square" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20collab-2E75B6?style=flat-square" />
   <img src="https://img.shields.io/badge/Location-Pretoria%2C%20SA-1F3A5F?style=flat-square" />
-  <img src="https://img.shields.io/badge/Currently-Shipping%20Aevelon-success?style=flat-square" />
+  <img src="https://img.shields.io/badge/Currently-Building%20cool%20things-success?style=flat-square" />
 </p>
 
 ---
 
 <!-- ░░░░░░░░░░░  ABOUT  ░░░░░░░░░░░ -->
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif" align="right" alt="coding gif" width="380" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGJrczY3ZHg1Y29nanpicG53NzgzNmpwa3NvaXNsZjBsenQ0NDVudiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IMOTcqOtaEkXiBonLU/giphy.gif" align="right" alt="coding gif" width="380" />
 
 ### About me
 
@@ -40,7 +40,7 @@ What I care about:
 - **Tests against the real thing** — Reqnroll BDD scenarios on a live PostgreSQL, no shortcut mocks
 - **Type safety end-to-end** — strict TypeScript, nullable reference types in C#, types generated from the Postgres schema
 
-Currently shipping the **Aevelon e-invoicing platform** at Whakatau (~R40M project in legal & finance) and leading the **Zola** cross-platform e-hailing app on the side.
+Currently leading **Zola**, a cross-platform e-hailing app I'm building with React Native + Expo on a Supabase backend, alongside other production work across web and backend systems.
 
 Off the keyboard you'll find me on the mat (MMA) or watching the tape (Forex day trading) — both teach the same lesson: *discipline beats inspiration*.
 
@@ -72,6 +72,7 @@ Off the keyboard you'll find me on the mat (MMA) or watching the tape (Forex day
 <p>
   <img src="https://img.shields.io/badge/C%23%2013-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript%205.9-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20%2F%20PL%2FpgSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
@@ -104,6 +105,16 @@ Off the keyboard you'll find me on the mat (MMA) or watching the tape (Forex day
   <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
   <img src="https://img.shields.io/badge/WCAG%202.1%20AA-005A9C?style=for-the-badge" />
+</p>
+</details>
+
+<details open>
+<summary><b>&nbsp;Mobile</b></summary>
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=000000" />
+  <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
 </p>
 </details>
 
@@ -142,9 +153,9 @@ Off the keyboard you'll find me on the mat (MMA) or watching the tape (Forex day
 
 | Project | Stack | Status |
 | :--- | :--- | :--- |
-| **Aevelon E-Invoicing** &nbsp; — &nbsp; on-prem platform for legal & finance | .NET 10 · Angular 21 · PostgreSQL · Supabase | In production |
 | **Zola** &nbsp; — &nbsp; cross-platform e-hailing app | React Native · Expo · Supabase | MVP shipped, scaling |
 | **ASD CLI** &nbsp; — &nbsp; automation (Caddy auto-TLS, tunnels, httpWaitFor) | Node · Caddy | Internal tooling |
+| **Python automation & data tools** &nbsp; — &nbsp; scripts and small services | Python · PostgreSQL | Ongoing |
 
 ---
 
