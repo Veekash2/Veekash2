@@ -148,6 +148,15 @@ Off the keyboard you'll find me on the mat (MMA) or watching the tape (Forex day
 </details>
 
 ---
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Veekash2/Veekash2/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Veekash2/Veekash2/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Veekash2/Veekash2/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
 
 ### Currently building
 
