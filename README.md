@@ -192,7 +192,7 @@ Off the keyboard you'll find me on the mat (MMA) or watching the tape (Forex day
 ---
 
 <p align="center">
-  <i>"Discipline beats inspiration — on the mat, in the markets, and in the codebase."</i>
+  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler</i>
 </p>
 
 <!-- ░░░░░░░░░░░  FOOTER BANNER  ░░░░░░░░░░░ -->
