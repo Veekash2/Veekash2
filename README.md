@@ -1,10 +1,10 @@
 <!-- ░░░░░░░░░░░  TOP BANNER  ░░░░░░░░░░░ -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:2E75B6&height=200&section=header&text=Veekash%20Singh&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1F3A5F,100:2E75B6&height=200&section=header&text=0xVK&fontColor=FFFFFF&fontSize=60&fontAlignY=38&desc=Full-Stack%20Software%20Engineer&descAlignY=60&descSize=18&animation=fadeIn" alt="banner" />
 </p>
 
 <h1 align="center">
-  Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40" alt="waving hand" />, I'm Veekash
+  Hi <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40" alt="waving hand" />, I'm 0xVK
 </h1>
 
 <h3 align="center">.NET &nbsp;•&nbsp; Angular &nbsp;•&nbsp; PostgreSQL &nbsp;•&nbsp; Security-first design</h3>
@@ -40,7 +40,7 @@ What I care about:
 - **Tests against the real thing** — Reqnroll BDD scenarios on a live PostgreSQL, no shortcut mocks
 - **Type safety end-to-end** — strict TypeScript, nullable reference types in C#, types generated from the Postgres schema
 
-Currently leading **Zola**, a cross-platform e-hailing app I'm building with React Native + Expo on a Supabase backend, alongside other production work across web and backend systems.
+Currently leading a stealth mobile app I'm building with React Native + Expo on a Supabase backend, alongside other production work across web and backend systems.
 
 Off the keyboard you'll find me on the mat (MMA) or watching the tape (Forex day trading) — both teach the same lesson: *discipline beats inspiration*.
 
@@ -153,8 +153,9 @@ Off the keyboard you'll find me on the mat (MMA) or watching the tape (Forex day
 
 | Project | Stack | Status |
 | :--- | :--- | :--- |
-| **Zola** &nbsp; — &nbsp; cross-platform e-hailing app | React Native · Expo · Supabase | MVP shipped, scaling |
-| **ASD CLI** &nbsp; — &nbsp; automation (Caddy auto-TLS, tunnels, httpWaitFor) | Node · Caddy | Internal tooling |
+| **Mobile app** &nbsp; — &nbsp; stealth project | React Native · Expo · Supabase | In progress |
+| **.NET application** &nbsp; — &nbsp; backend system | .NET · ASP.NET Core · PostgreSQL | Active |
+| **C++ application** &nbsp; — &nbsp; systems-level work | C++ | Active |
 | **Python automation & data tools** &nbsp; — &nbsp; scripts and small services | Python · PostgreSQL | Ongoing |
 
 ---
