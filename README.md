@@ -60,6 +60,9 @@ Off the keyboard you'll find me on the mat (MMA) or watching the tape (Forex day
   <a href="mailto:veekash708@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://veekash2.github.io/MyLearning/">
+    <img src="https://img.shields.io/badge/My%20Learning-2d5a27?style=for-the-badge&logo=githubpages&logoColor=white" />
+  </a>
 </p>
 
 ---
@@ -162,6 +165,7 @@ Off the keyboard you'll find me on the mat (MMA) or watching the tape (Forex day
 
 | Project | Stack | Status |
 | :--- | :--- | :--- |
+| **[My Learning](https://veekash2.github.io/MyLearning/)** &nbsp; — &nbsp; personal learning tracker with Kanban, boss projects & notes | Pure HTML · CSS · JS | Live |
 | **Mobile app** &nbsp; — &nbsp; stealth project | React Native · Expo · Supabase | In progress |
 | **.NET application** &nbsp; — &nbsp; backend system | .NET · ASP.NET Core · PostgreSQL | Active |
 | **C++ application** &nbsp; — &nbsp; systems-level work | C++ | Active |
